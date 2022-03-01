@@ -2,7 +2,7 @@
 
 This is a repository filled with personal projects that I myself have worked on.
 
-##Project List
+# Project List
 - Discord Bot 
 - Proof of Concept Web3 NFT Project
 
