@@ -2,6 +2,11 @@
 
 This is a repository filled with personal projects that I myself have worked on.
 
+##Project List
+- Discord Bot 
+- Proof of Concept Web3 NFT Project
+
+
 ## Contact Information 
 Email: nnicholass32@gmail.com
 
