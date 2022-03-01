@@ -3,7 +3,7 @@
 This is a repository filled with personal projects that I myself have worked on.
 
 # Project List
-- Discord Bot 
+- [Discord Bot](https://github.com/ETWGames/Projects/tree/main/DiscordBot) 
 - Proof of Concept Web3 NFT Project
 
 
