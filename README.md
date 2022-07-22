@@ -3,7 +3,7 @@
 This is a repository filled with personal projects that I myself have worked on.
 
 # Project List
-- [Discord Bot](https://github.com/ETWGames/Projects/tree/main/DiscordBot)
+- [Discord Bot](https://github.com/ETWGames/DiscordBot)
 - [A* Pathfinding Algorithm Visualizer](https://github.com/ETWGames/Projects/tree/main/A*%20Pathfinding%20Algorithm%20Visualizer)
 - [Proof of Concept Web3 NFT Project](https://github.com/ETWGames/NFTProject)
 
