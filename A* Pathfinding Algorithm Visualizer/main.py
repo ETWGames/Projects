@@ -15,7 +15,7 @@ BLACK = (0, 0, 0)
 PURPLE = (128, 0, 128)
 ORANGE = (255, 165 ,0)
 GREY = (128, 128, 128)
-TURQUOISE = (64, 224, 208)
+GREEN_BLUE = (64, 224, 208)
 
 class Spot:
 	def __init__(self, row, col, width, total_rows):
@@ -44,7 +44,7 @@ class Spot:
 		return self.color == ORANGE
 
 	def is_end(self):
-		return self.color == TURQUOISE
+		return self.color == GREEN_BLUE
 
 	def reset(self):
 		self.color = WHITE
@@ -62,7 +62,7 @@ class Spot:
 		self.color = BLACK
 
 	def make_end(self):
-		self.color = TURQUOISE
+		self.color = GREEN_BLUE
 
 	def make_path(self):
 		self.color = PURPLE
